@@ -1,1 +1,1 @@
-# Srudy-Material-v1.0
+# Study-Material-v1.0
